@@ -1,4 +1,4 @@
-# colors.h
+# colors
 
 Colors for the console.
 
