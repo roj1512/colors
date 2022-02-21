@@ -1,6 +1,6 @@
-# colors
+# Colors
 
-Colors for the console.
+> Colors for the console.
 
 ## Example
 
